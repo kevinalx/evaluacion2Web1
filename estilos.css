@@ -1,0 +1,57 @@
+.btn-primary{
+    color: #e5ebf0;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-decoration: none;
+    font-size: 18px;
+    overflow: hidden;
+    transition: 0.2s;
+
+}
+
+.btn-primary:hover{
+    color: #255784;
+    background:#2196f3;
+    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+}
+
+/*verde*/
+.btn-success{
+    color: #e5ebf0;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-decoration: none;
+    font-size: 18px;
+    overflow: hidden;
+    transition: 0.2s;
+
+}
+
+.btn-success:hover{
+    color: #009900;
+    background:#00e600;
+    box-shadow: 0 0 10px #00e600 , 0 0 40px #00e600, 0 0 80px #00e600;
+}
+
+/*rojo*/
+.btn-danger{
+    color: #e5ebf0;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-decoration: none;
+    font-size: 18px;
+    overflow: hidden;
+    transition: 0.2s;
+
+}
+
+.btn-danger:hover{
+    color: #ff0000;
+    background:#cc0000;
+    box-shadow: 0 0 10px#cc0000  , 0 0 40px #cc0000, 0 0 80px #cc0000;
+}
+
+.fondo{
+    background: #031321;
+}
+
